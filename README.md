@@ -17,7 +17,7 @@
 ## 🧾 About Me
 - **Role:** Treasury Risk Specialist (ex-KPMG & EY)  
 - **Mission:** Delete every manual finance workflow—from cash positioning to on-chain liquidity—on my way to Head of Treasury / automation consultancy.  
-- **Base:** Luxembourg → **Zurich 2028** (🇫🇷, 🇬🇧, leveling up 🇩🇪)  
+- **Base:** Luxembourg (🇫🇷, 🇬🇧, leveling up 🇩🇪)  
 - **Edge:** Multi-disciplinary—quant finance, Python dev, GTO poker strategist, Homeric-epic junkie.  
 
 ---
