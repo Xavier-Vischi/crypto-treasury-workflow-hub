@@ -36,27 +36,7 @@
 ## 🚀 2025 Focus
 - **Crypto-Treasury-Workflow-Hub** — unify fiat & on-chain cash-management via API-first tooling.  
 - **Event-driven hedging bots** cutting FX + crypto exposure in < 100 ms.  
-- **Mucus-less diet meal-planner** script (fruit macros count).  
 - Hit **German B2** with a spaced-repetition CLI app.  
-
----
-
-## 🌟 Featured Projects
-| Repo | One-liner |
-|------|-----------|
-| **crypto-treasury-workflow-hub**| STP scripts: market data → risk calc → cash and DeFi settlement. |
-| **sigma-scripts** | Quant snippets for vol surfaces & stress testing. |
-| **matrix-market-maker** | Experimental AMM timing model—bullet-time for liquidity. |
-| **odyssey-orchestrator** | Task-runner chaining ETL, ML, payment rails. |
-
-> *Pinned repos ⤵️ — each commit erases another manual click.*
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://urldefense.com/v3/__https://github-readme-stats.vercel.app/api?username=Xavier-Vischi&show_icons=true&hide=contribs&count_private=true__;!!PFtcAw!PQlGhWvuo0RZfP8ELvlJ_COLRk-O8vM1Mm0ibRf78RfaBAQI_EthtSv-4Dj06l9pfaaakWQd5MkD5av94LgPXAznOSkkZik$" alt="GitHub stats">
-</p>
 
 ---
 
