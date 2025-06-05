@@ -44,7 +44,7 @@
 ## 🌟 Featured Projects
 | Repo | One-liner |
 |------|-----------|
-| **[crypto-treasury-workflow-hub](https://urldefense.com/v3/__https://github.com/Xavier-Vischi/crypto-treasury-workflow-hub)**| STP scripts: market data → risk calc → cash and DeFi settlement. |
+| **crypto-treasury-workflow-hub**| STP scripts: market data → risk calc → cash and DeFi settlement. |
 | **sigma-scripts** | Quant snippets for vol surfaces & stress testing. |
 | **matrix-market-maker** | Experimental AMM timing model—bullet-time for liquidity. |
 | **odyssey-orchestrator** | Task-runner chaining ETL, ML, payment rails. |
