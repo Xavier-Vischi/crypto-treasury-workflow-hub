@@ -54,4 +54,5 @@ Beyond the Sharpe ratio, other metrics help assess Bitcoin's contribution to a d
 
 The following graph illustrates the 5-year Sharpe ratio and risk-return profile of Bitcoin compared to traditional treasury assets, highlighting its superior risk-adjusted performance despite higher volatility.
 
-![Sharpe Ratio Comparison](./images/sharpe_ratio_comparison.png)
+![Sharpe Ratio Comparison](../images/sharpe_ratio_comparison.png)
+
