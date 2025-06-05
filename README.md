@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://urldefense.com/v3/__www.linkedin.com/in/x-v-i__;!!PFtcAw!PQlGhWvuo0RZfP8ELvlJ_COLRk-O8vM1Mm0ibRf78RfaBAQI_EthtSv-4Dj06l9pfaaakWQd5MkD5av94LgPXAznOJwJENs$"><img src="https://urldefense.com/v3/__https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge__;!!PFtcAw!PQlGhWvuo0RZfP8ELvlJ_COLRk-O8vM1Mm0ibRf78RfaBAQI_EthtSv-4Dj06l9pfaaakWQd5MkD5av94LgPXAzn1tLMQs4$" alt="LinkedIn"></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://urldefense.com/v3/__https://img.shields.io/badge/email-D14836?logo=gmail&logoColor=white&style=for-the-badge__;!!PFtcAw!PQlGhWvuo0RZfP8ELvlJ_COLRk-O8vM1Mm0ibRf78RfaBAQI_EthtSv-4Dj06l9pfaaakWQd5MkD5av94LgPXAznnfXQZ24$" alt="Email"></a>
-  <a href="https://urldefense.com/v3/__https://xavierwrites.medium.com__;!!PFtcAw!PQlGhWvuo0RZfP8ELvlJ_COLRk-O8vM1Mm0ibRf78RfaBAQI_EthtSv-4Dj06l9pfaaakWQd5MkD5av94LgPXAzn1zqcGCc$"><img src="https://urldefense.com/v3/__https://img.shields.io/badge/medium-000000?logo=medium&logoColor=white&style=for-the-badge__;!!PFtcAw!PQlGhWvuo0RZfP8ELvlJ_COLRk-O8vM1Mm0ibRf78RfaBAQI_EthtSv-4Dj06l9pfaaakWQd5MkD5av94LgPXAzn3HQU_2o$" alt="Medium"></a>
+  <a href="mailto:xavier.vischi@gmail.com"><img src="https://urldefense.com/v3/__https://img.shields.io/badge/email-D14836?logo=gmail&logoColor=white&style=for-the-badge__;!!PFtcAw!PQlGhWvuo0RZfP8ELvlJ_COLRk-O8vM1Mm0ibRf78RfaBAQI_EthtSv-4Dj06l9pfaaakWQd5MkD5av94LgPXAznnfXQZ24$" alt="Email"></a>
+
 </p>
 
 ---
