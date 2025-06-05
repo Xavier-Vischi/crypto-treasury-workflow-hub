@@ -1,6 +1,6 @@
 <!-- Profile README | Xavier -->
 
-<h1 align="center">Xavier — Treasury | Markets | Intelligent Automation</h1>
+<h1 align="center">Xavier — Bitcoin | Treasury | Markets | Intelligent Automation</h1>
 
 <p align="center">
   <em>“Treasury isn’t about guarding cash; it’s about engineering flow at the speed of thought.”</em>
