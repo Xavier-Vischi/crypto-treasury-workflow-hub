@@ -1,0 +1,22 @@
+{
+  "custody_models": [
+    "Self-Custody (Cold Storage)",
+    "Qualified Custodian",
+    "Exchange Custody",
+    "Multi-Signature Solution"
+  ],
+  "attributes": [
+    "Security Level",
+    "Cost",
+    "Access Speed",
+    "Regulatory Compliance",
+    "Insurance Coverage",
+    "Operational Complexity"
+  ],
+  "scores": {
+    "Self-Custody (Cold Storage)": [5, 5, 2, 3, 1, 2],
+    "Qualified Custodian": [4, 2, 3, 5, 5, 4],
+    "Exchange Custody": [2, 4, 5, 3, 3, 5],
+    "Multi-Signature Solution": [4, 3, 3, 4, 3, 3]
+  }
+}
