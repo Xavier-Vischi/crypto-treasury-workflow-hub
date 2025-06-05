@@ -56,3 +56,6 @@ The following graph illustrates the 5-year Sharpe ratio and risk-return profile 
 
 ![Sharpe Ratio Comparison](../images/sharpe_ratio_comparison.png)
 
+## Conclusion
+
+Bitcoin presents a unique risk-return profile that differs significantly from traditional treasury assets. Its high volatility and potential for large drawdowns require careful consideration and robust risk management frameworks. However, its historically strong risk-adjusted returns, as measured by the Sharpe ratio, and its low correlation with other assets suggest that a thoughtfully sized allocation to Bitcoin could enhance the overall efficiency and resilience of a corporate treasury portfolio. CFOs must weigh these quantitative factors alongside the qualitative considerations discussed in subsequent chapters to make informed decisions aligned with their organization's specific risk appetite and strategic objectives.
