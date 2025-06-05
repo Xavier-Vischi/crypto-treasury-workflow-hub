@@ -1,0 +1,41 @@
+{
+  "risk_free_rate": 0.025,
+  "plot_style": {
+    "style": "whitegrid",
+    "figure_size": [12, 12],
+    "font_size": 12,
+    "title_font_size": 16,
+    "label_font_size": 14,
+    "annotation_font_size": 12,
+    "grid_alpha": 0.3,
+    "scatter_size": 100,
+    "scatter_alpha": 0.7
+  },
+  "asset_classes": {
+    "Bitcoin": {
+      "color": "#F7931A",
+      "return": 0.42,
+      "volatility": 0.65
+    },
+    "S&P 500": {
+      "color": "#1E88E5",
+      "return": 0.12,
+      "volatility": 0.18
+    },
+    "Gold": {
+      "color": "#FFC107",
+      "return": 0.08,
+      "volatility": 0.15
+    },
+    "US Bonds": {
+      "color": "#4CAF50",
+      "return": 0.03,
+      "volatility": 0.05
+    },
+    "60/40 Portfolio": {
+      "color": "#9C27B0",
+      "return": 0.09,
+      "volatility": 0.12
+    }
+  }
+}
